@@ -73,7 +73,7 @@
 
 ---
 
-### 🔌 Conéctate conmigo
+### 🔌 Conéctate conmigo 
 
 <!-- Si tienes LinkedIn, Twitter o Portfolio, cambia los # por tus URLs -->
 <p align="left">
