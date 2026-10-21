@@ -27,8 +27,8 @@
 - 🖥️ Proyecto actual: **Montar mi propio Homelab** (servidor físico, NAS, redes VLAN, y probablemente algún que otro contenedor Docker para aprender).
 - 🐧 Amante de los sistemas operativos. He usado:
   - 🪟 Windows 10 y 11 (por obligación y gaming).
-  - 🐧 Ubuntu (tanto Desktop como Server).
-  - 🌿 Linux Mint (mi daily driver actual).
+  - 🐧 Ubuntu (Server).
+  - 🐧 Debian + DMS + niri (mi daily driver actual).
 - 🎯 **Objetivos 2026**: Aprender a fondo **Arch Linux** (quiero sufrir con la instalación) y **Fedora** (para probar el lado más enterprise).
 
 ---
